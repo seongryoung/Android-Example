@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">로띠</string>
+    <string name="edit_message">메시지 입력</string>
+    <string name="button_send">보내기</string>
+    <string name="navi_home">홈</string>
+    <string name="navi_setting">셋팅</string>
+</resources>

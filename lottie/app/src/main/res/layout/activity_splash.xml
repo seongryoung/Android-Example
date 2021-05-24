@@ -14,5 +14,7 @@
         app:lottie_rawRes="@raw/trashcan"
         />
 
+    
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
